@@ -1,11 +1,10 @@
 # ver 1.2
 
 # Gra kamien, nożyczki, papier
-<<<<<<< HEAD
-# Super gra dla każdego
-=======
+
+
 # Super gra dla każdego od 5-100 lat
->>>>>>> praca_rozwojowa_v2
+
 
 from random import choice
 atrybut = ('kamień', 'papier', 'nożyczki')
