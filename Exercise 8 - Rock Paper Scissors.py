@@ -1,7 +1,7 @@
 # ver 1.2
 
 # Gra kamien, nożyczki, papier
-# Super gra
+# Super gra dla każdego od 5-100 lat
 
 from random import choice
 atrybut = ('kamień', 'papier', 'nożyczki')
