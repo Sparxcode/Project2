@@ -1,7 +1,7 @@
-# ver 1.1
+# ver 1.2
 
 # Gra kamien, nożyczki, papier
-# Super gra
+# Super gra dla każdego
 
 from random import choice
 atrybut = ('kamień', 'papier', 'nożyczki')
